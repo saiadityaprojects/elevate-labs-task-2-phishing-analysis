@@ -1,4 +1,4 @@
-Elevate Labs Internship - Task 2: Phishing Email Analysis
+**Elevate Labs Internship - Task 2: Phishing Email Analysis**
 Objective
 This repository contains the deliverables for Task 2 of the Elevate Labs Cybersecurity Internship. The objective of this task was to analyze a suspicious email sample, identify its phishing characteristics, and produce a report summarizing the findings.
 
